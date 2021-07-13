@@ -1,5 +1,6 @@
-## 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 **Dan**  <img src="https://user-images.githubusercontent.com/37808313/125493073-ee1dedac-4fec-4964-b4ea-2426ddeefb0a.gif" width="80" >
+<img src="https://user-images.githubusercontent.com/37808313/125493073-ee1dedac-4fec-4964-b4ea-2426ddeefb0a.gif" width="80" >
 
+![image](https://user-images.githubusercontent.com/37808313/125509980-ae259c31-d247-4159-9eb2-edcdba835232.png)
 
 <a href="https://www.linkedin.com/in/danzhao-0618/">
   <img alt="Dan's LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
