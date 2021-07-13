@@ -5,14 +5,13 @@
   <img alt="Dan's LinkedIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
 </a>
 
- <img align="right" src="https://user-images.githubusercontent.com/37808313/125492153-f4698766-50c5-48e7-88b7-06fff1c2b8cb.gif" width=200>
+ <img align="right" src="https://user-images.githubusercontent.com/37808313/125492153-f4698766-50c5-48e7-88b7-06fff1c2b8cb.gif" width=300>
 
 
 ```javascript
 const Dan = {
   pronouns: "she" | "her",
   code: [C++, Swift, Python, HTML, CSS, JavaScript ],
-  Technologies: [Git/GitHub, Microsoft Office Suite (Outlook, Word, Excel, PowerPoint), Google Docs],
   Operating System: [Knowledge of IBM systems, Windows, Mac OS and Linux]
 }
 ```
