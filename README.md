@@ -12,7 +12,8 @@
 ```javascript
 const Dan = {
   pronouns: "she" | "her",
-  code: [C++, Swift, Python, HTML, CSS, JavaScript ],
+  location: New York
+  code: [C++, Swift, HTML, CSS, JavaScript,sql],
   Operating System: [Knowledge of IBM systems, Windows, Mac OS and Linux]
 }
 ```
